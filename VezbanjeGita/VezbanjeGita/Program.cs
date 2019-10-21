@@ -8,6 +8,7 @@ namespace VezbanjeGita
 {
     class Program
     {
+        // Ovo je samo jedan komentar
         static void Main(string[] args)
         {
             Console.WriteLine("SmartInIt");
